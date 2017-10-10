@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Voctor will be here!
+                    Voctor will not be here!
                 </div>
 
                 <div class="links">
